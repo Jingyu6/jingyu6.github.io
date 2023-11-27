@@ -51,6 +51,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -69,7 +70,13 @@ sections:
           location: Menlo Park, CA
           date_start: '2022-09-01'
           date_end: '2023-09-01'
-          description: Research on large language models (LLMs) and 3D computer vision. 
+          description: |2- 
+            Research on large language models:
+              CodeLlama: SOTA open sourced code generation LLMs
+              Llama 2 Long: effective context length extension of Llama 2 up to 32K
+            Research on 3D computer vision:
+              Semantic 3D indoor scene synthesis, reasoning, and planning
+              Text-guided 3D human generation
         - title: Research Assistant
           company: ETH Zurich
           company_url: https://las.inf.ethz.ch/krausea
@@ -77,7 +84,7 @@ sections:
           location: Zurich, Switzerland
           date_start: '2022-03-01'
           date_end: '2022-11-01'
-          description: Student research assistant working on offline reinforcement learning. 
+          description: Student research assistant working on offline reinforcement learning algorithms that trains with a mixture of trajectories sampled from multiple demonstrators. 
         - title: Machine Learning Engineer
           company: ByteDance
           company_url: https://www.bytedance.com/en
@@ -85,7 +92,7 @@ sections:
           location: Beijing, China
           date_start: '2020-08-01'
           date_end: '2021-08-01'
-          description: Worked on the search engine in Douyin's e-commerce platform.
+          description: Worked on the search engine in Douyin's e-commerce platform from very early stage, including the search index, data pipeline, retrieval module, and ranking deep models. 
     design:
       columns: '2'
   # - block: accomplishments
