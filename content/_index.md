@@ -73,15 +73,13 @@ sections:
           description: |2- 
             Research on large language models:
 
-              CodeLlama: SOTA open sourced code generation LLMs
-              
-              Llama 2 Long: effective context length extension of Llama 2 up to 32K
+              * CodeLlama: SOTA open sourced code generation LLMs
+              * Llama 2 Long: effective context length extension of Llama 2 up to 32K
 
             Research on 3D computer vision:
 
-              Semantic 3D indoor scene synthesis, reasoning, and planning
-              
-              Text-guided 3D human generation
+              * Semantic 3D indoor scene synthesis, reasoning, and planning
+              * Text-guided 3D human generation
         - title: Research Assistant
           company: ETH Zurich
           company_url: https://las.inf.ethz.ch/krausea
