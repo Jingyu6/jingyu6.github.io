@@ -67,24 +67,24 @@ sections:
           company_url: https://ai.meta.com
           company_logo: org_meta
           location: Menlo Park, CA
-          date_start: '2022-09'
-          date_end: '2023-09'
+          date_start: '2022-09-01'
+          date_end: '2023-09-01'
           description: Research on large language models (LLMs) and 3D computer vision. 
         - title: Research Assistant
           company: ETH Zurich
           company_url: https://las.inf.ethz.ch/krausea
           company_logo: org_eth
           location: Zurich, Switzerland
-          date_start: '2022-03'
-          date_end: '2022-11'
+          date_start: '2022-03-01'
+          date_end: '2022-11-01'
           description: Student research assistant working on offline reinforcement learning. 
         - title: Machine Learning Engineer
           company: ByteDance
           company_url: https://www.bytedance.com/en
           company_logo: org_bytedance
           location: Beijing, China
-          date_start: '2020-8'
-          date_end: '2021-8'
+          date_start: '2020-08-01'
+          date_end: '2021-08-01'
           description: Worked on the search engine in Douyin's e-commerce platform.
     design:
       columns: '2'
