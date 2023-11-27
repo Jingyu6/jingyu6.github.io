@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student at ETH Zurich
+role: Master Student in CS
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -107,7 +107,11 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am currently a second and last year master student in CS at ETH Zurich. During the master's, I took a gap year at Meta AI working as an AI resident on LLMs and 3D computer vision. I was very fortunate to work with many talented folks and be supervised by [Barlas Oğuz](https://ai.meta.com/people/barlas-oguz), [Mike Lewis](https://ai.meta.com/people/mike-lewis), and [Gabriel Synnaeve](http://emotion.inrialpes.fr/people/synnaeve). Before that I worked as a student researcher exploring offline reinforcement learning at the [LAS lab](https://las.inf.ethz.ch) at ETH Zurich. Before the master's, I spent a year working on building search engines at ByteDance as a MLE. I graduated NYU with honors in CS and was awarded with [Prize for Outstanding Performance in CS](https://cs.nyu.edu/dynamic/achievements/undergraduate).
 
-Jingyu is currently a second and last year master student at ETH Zurich. During the master's, he spent a year at Meta as an AI resident working on LLMs (long context and code gen models) and 3D computer vision. He holds a bachelor degree in CS with honors from NYU. Before the master's, he spent a gap year working on building search engines at Bytedance as a machine learning engineer.
+With my previous works on *[CodeLlama](https://arxiv.org/abs/2308.12950)* and *[Llama 2 Long](https://arxiv.org/abs/2309.16039)*, I become very interested in AI systems, specially in developing efficient algorithms and systems for large-scale training and inference. I'm intrigued by how we could improve model alignment and understand the science behind these foundation models.
 
+{last_name}{first_name} AT student DOT ethz DOT ch
+
+Feel free to drop me an email for anything, especially for potential collaboration!!
 {style="text-align: justify;"}
