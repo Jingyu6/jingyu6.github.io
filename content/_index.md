@@ -217,7 +217,6 @@ sections:
     id: publications
     content:
       title: Academic Papers
-      text: (* denotes equal contribution)
       filters:
         folders:
           - publication
