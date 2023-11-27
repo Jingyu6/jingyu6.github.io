@@ -72,10 +72,15 @@ sections:
           date_end: '2023-09-01'
           description: |2- 
             Research on large language models:
+
               CodeLlama: SOTA open sourced code generation LLMs
+              
               Llama 2 Long: effective context length extension of Llama 2 up to 32K
+
             Research on 3D computer vision:
+
               Semantic 3D indoor scene synthesis, reasoning, and planning
+              
               Text-guided 3D human generation
         - title: Research Assistant
           company: ETH Zurich
@@ -217,6 +222,7 @@ sections:
       filters:
         folders:
           - publication
+      order: desc
       design:
         columns: '2'
         view: citation
