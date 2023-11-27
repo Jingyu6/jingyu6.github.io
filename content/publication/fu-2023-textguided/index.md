@@ -7,11 +7,10 @@ authors:
 - Jingyu Liu
 - Barlas Oğuz
 - William Yang Wang
-date: '2023-01-01'
+date: '2023-11-27T07:27:18.177913Z'
 publishDate: '2023-11-27T07:27:18.177913Z'
 publication_types:
-- manuscript
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2305.14312
+  - paper-conference
+url_pdf: https://arxiv.org/abs/2305.14312
+url_project: https://text-3dh.github.io/
 ---
