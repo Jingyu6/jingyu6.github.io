@@ -12,7 +12,6 @@ date: '2023-11-27T07:27:18.169222Z'
 publishDate: '2023-11-27T07:27:18.169222Z'
 publication_types:
   - article
-tags:
-  featured: true
+featured: true
 url_pdf: https://arxiv.org/abs/2303.03565
 ---

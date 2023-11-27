@@ -2,7 +2,7 @@
 title: Effective Long-Context Scaling of Foundation Models
 authors:
   - Wenhan Xiong
-  - Jingyu Liu
+  - _Jingyu Liu_
   - Igor Molybog
   - Hejia Zhang
   - Prajjwal Bhargava
@@ -30,8 +30,7 @@ publishDate: '2023-11-27T07:27:18.148749Z'
 publication_types:
   - report
 publication: "Meta AI"
-tags:
-  featured: true
+featured: true
 url_pdf: https://arxiv.org/abs/2309.16039
 url_project: https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools
 ---
