@@ -88,5 +88,5 @@ sections:
       text: |2-
         I was first trained as a game designer at [NYU Game Center](https://gamecenter.nyu.edu) during my undergrad and became increasingly more interested in CS and AI. Despite that, I'm still very interested in game dev, physically-based rendering, and game AI. 
 
-        During my free time, I enjoy playing chess (watch chess stream), electric guitars, and recently got obssessed with golf. 
+        During my free time, I enjoy playing chess (watch [live-stream](https://www.youtube.com/@GMHikaru)), electric guitars (favorite [instrumental band](https://www.youtube.com/@Polyphia)), and recently got obsessed with golf (a group of [chilled golfers](https://www.youtube.com/@GoodGood)). 
 ---
