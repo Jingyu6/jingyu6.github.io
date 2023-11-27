@@ -220,7 +220,6 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
       order: desc
       design:
         columns: '2'
