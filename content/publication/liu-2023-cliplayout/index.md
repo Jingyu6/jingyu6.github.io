@@ -2,14 +2,14 @@
 title: 'CLIP-Layout: Style-Consistent Indoor Scene Synthesis with Semantic Furniture
   Embedding'
 authors:
-  - Jingyu Liu
+  - admin
   - Wenhan Xiong
   - Ian Jones
   - Yixin Nie
   - Anchit Gupta
   - Barlas Oğuz
-date: '2023-11-27T07:27:18.169222Z'
-publishDate: '2023-11-27T07:27:18.169222Z'
+date: '2023-05-07'
+publishDate: '2023-05-07'
 publication_types:
   - article
 featured: true

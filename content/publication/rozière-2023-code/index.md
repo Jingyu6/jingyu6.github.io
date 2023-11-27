@@ -8,7 +8,7 @@ authors:
   - Itai Gat
   - Xiaoqing Ellen Tan
   - Yossi Adi
-  - Jingyu Liu
+  - admin
   - Tal Remez
   - Jérémy Rapin
   - Artyom Kozhevnikov
@@ -26,8 +26,34 @@ authors:
   - Nicolas Usunier
   - Thomas Scialom
   - Gabriel Synnaeve
-date: '2023-11-27T07:27:18.160572Z'
-publishDate: '2023-11-27T07:27:18.160572Z'
+author_notes:
+  - "Equal Contribution"
+  - "Equal Contribution"
+  - "Equal Contribution"
+  - "Equal Contribution"
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - "Equal Contribution"
+date: '2023-08-25'
+publishDate: '2023-08-25'
 publication_types:
   - report
 featured: true

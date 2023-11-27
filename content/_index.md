@@ -216,7 +216,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Academic Papers
+      title: Papers
       filters:
         folders:
           - publication
