@@ -3,7 +3,7 @@
 title: Jingyu Liu
 
 # Name pronunciation (optional)
-name_pronunciation: 刘镜宇
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Jingyu
@@ -25,7 +25,7 @@ organizations:
     url: https://ethz.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jingyu is currently a second and last year master student at ETH Zurich. During the master's, he spent a year at Meta as an AI resident working on LLMs (long context and code gen models) and 3D computer vision. He holds a bachelor degree in CS with honors from NYU. Before the master's, he spent a gap year working on building search engines at Bytedance as a machine learning engineer.
+bio: ""
 
 # Interests to show in About widget
 interests:
@@ -108,6 +108,6 @@ social:
 highlight_name: true
 ---
 
-My long bio.
+Jingyu is currently a second and last year master student at ETH Zurich. During the master's, he spent a year at Meta as an AI resident working on LLMs (long context and code gen models) and 3D computer vision. He holds a bachelor degree in CS with honors from NYU. Before the master's, he spent a gap year working on building search engines at Bytedance as a machine learning engineer.
 
 {style="text-align: justify;"}
