@@ -30,6 +30,8 @@ publishDate: '2023-11-27T07:27:18.148749Z'
 publication_types:
   - report
 publication: "Meta AI"
+tags:
+  featured: true
 url_pdf: https://arxiv.org/abs/2309.16039
 url_project: https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools
 ---

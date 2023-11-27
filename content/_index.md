@@ -217,9 +217,11 @@ sections:
     id: publications
     content:
       title: Academic Papers
+      text: (* denotes equal contribution)
       filters:
         folders:
           - publication
+        featured_only: true
       order: desc
       design:
         columns: '2'

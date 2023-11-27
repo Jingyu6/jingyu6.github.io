@@ -11,6 +11,8 @@ date: '2023-11-27T07:27:18.177913Z'
 publishDate: '2023-11-27T07:27:18.177913Z'
 publication_types:
   - paper-conference
+tags:
+  featured: true
 publication: "EMNLP Findings 2023"
 url_pdf: https://arxiv.org/abs/2305.14312
 url_project: https://text-3dh.github.io/

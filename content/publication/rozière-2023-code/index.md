@@ -30,6 +30,8 @@ date: '2023-11-27T07:27:18.160572Z'
 publishDate: '2023-11-27T07:27:18.160572Z'
 publication_types:
   - report
+tags:
+  featured: true
 publication: "Meta AI"
 url_pdf: https://arxiv.org/abs/2308.12950
 url_project: https://github.com/facebookresearch/codellama

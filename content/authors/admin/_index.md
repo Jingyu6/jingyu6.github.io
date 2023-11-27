@@ -25,7 +25,7 @@ organizations:
     url: https://ethz.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "My research interests include foundation models and efficient AI systems."
 
 # Interests to show in About widget
 interests:
