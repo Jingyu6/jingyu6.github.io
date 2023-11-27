@@ -81,7 +81,7 @@ sections:
         columns: '2'
         view: card
   
-  - block: miscellaneous
+  - block: markdown
     id: miscellaneous
     content:
       title: Miscellaneous
