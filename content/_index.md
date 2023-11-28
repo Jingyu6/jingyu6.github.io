@@ -49,7 +49,7 @@ sections:
           location: Zurich, Switzerland
           date_start: '2022-03-01'
           date_end: '2022-11-01'
-          description: Student research assistant working on offline reinforcement learning algorithms that trains with a mixture of trajectories sampled from multiple demonstrators. 
+          description: Student research assistant working on offline reinforcement learning algorithms that train with a mixture of trajectories sampled from multiple demonstrators. 
         - title: Machine Learning Engineer
           company: ByteDance
           company_url: https://www.bytedance.com/en
@@ -57,7 +57,7 @@ sections:
           location: Beijing, China
           date_start: '2020-08-01'
           date_end: '2021-08-01'
-          description: Worked on the search engine in Douyin's e-commerce platform from very early stage, including the search index, data pipeline, retrieval module, and ranking deep models. 
+          description: Worked on the search engine in Douyin's E-commerce platform from the very early stage, including the search index, data pipeline, retrieval module, and ranking deep models. 
         - title: Teaching Assistant
           company: Courant Institute, New York University
           company_url: https://cims.nyu.edu/dynamic
@@ -88,5 +88,5 @@ sections:
       text: |2-
         I was first trained as a game designer at [NYU Game Center](https://gamecenter.nyu.edu) during my undergrad and became increasingly more interested in CS and AI. Despite that, I'm still very interested in game dev, physically-based rendering, and game AI. 
 
-        During my free time, I enjoy playing chess (watch [live-stream](https://www.youtube.com/@GMHikaru)), electric guitars (favorite [instrumental band](https://www.youtube.com/@Polyphia)), and recently got obsessed with golf (a group of [chilled golfers](https://www.youtube.com/@GoodGood)). 
+        During my free time, I enjoy playing chess (my favorite [live-stream](https://www.youtube.com/@GMHikaru)), electric guitars (my favorite [instrumental band](https://www.youtube.com/@Polyphia)), and recently got obsessed with golf (a group of [chilled golfers](https://www.youtube.com/@GoodGood)). 
 ---
