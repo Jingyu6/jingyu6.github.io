@@ -29,6 +29,10 @@ appearance:
 #     google: ''
 #     baidu: ''
 
+marketing:
+  analytics:
+    google_analytics: 'G-WWCYJKR0L6'
+
 # Site header
 
 header:
