@@ -36,9 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Incoming CS PhD Student
+      institution: University of Chicago
+      year: Starting 2024
     - course: MS in Computer Science
       institution: ETH Zurich
-      year: Expected 2024
+      year: 2024
     - course: BA in Computer Science with Honors
       institution: New York University
       year: 2020
@@ -107,7 +110,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a second and last year master student in CS at ETH Zurich. During the master's, I took a gap year at [Meta AI](https://ai.meta.com) working as an AI resident on LLMs and 3D computer vision. I was very fortunate to work with many talented folks and be supervised by [Barlas Oğuz](https://ai.meta.com/people/barlas-oguz), [Mike Lewis](https://ai.meta.com/people/mike-lewis), and [Gabriel Synnaeve](http://emotion.inrialpes.fr/people/synnaeve). Before that I worked as a student researcher exploring offline reinforcement learning at the [LAS lab](https://las.inf.ethz.ch) at ETH Zurich. Before the master's, I spent a year working on building search engines at [ByteDance](https://www.bytedance.com/en) as a MLE. I graduated from NYU with honors in CS and was awarded with [Prize for Outstanding Performance in CS](https://cs.nyu.edu/dynamic/achievements/undergraduate).
+I will join [University of Chicago](https://cs.uchicago.edu) as a PhD student in fall 2024, fortunately advised by prof [Ce Zhang](https://zhangce.github.io). I am currently finishing my master study in CS at ETH Zurich. During the master's, I took a gap year at [Meta AI](https://ai.meta.com) working as an AI resident on LLMs and 3D computer vision. I was very fortunate to work with many talented folks and be supervised by [Barlas Oğuz](https://ai.meta.com/people/barlas-oguz), [Mike Lewis](https://ai.meta.com/people/mike-lewis), and [Gabriel Synnaeve](http://emotion.inrialpes.fr/people/synnaeve). Before that I worked as a student researcher exploring offline reinforcement learning at the [LAS lab](https://las.inf.ethz.ch) at ETH Zurich. Before the master's, I spent a year working on building search engines at [ByteDance](https://www.bytedance.com/en) as a MLE. I graduated from NYU with honors in CS and was awarded with [Prize for Outstanding Performance in CS](https://cs.nyu.edu/dynamic/achievements/undergraduate).
 
 With my previous works on *[CodeLlama](https://arxiv.org/abs/2308.12950)* and *[Llama 2 Long](https://arxiv.org/abs/2309.16039)*, I become very interested in AI systems, specially in developing efficient algorithms and systems for large-scale training and inference. I'm intrigued by how we could improve model alignment and understand the science behind these foundation models.
 
