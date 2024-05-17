@@ -28,8 +28,8 @@ author_notes:
 date: '2023-09-27'
 publishDate: '2023-09-27'
 publication_types:
-  - report
-publication: "Meta AI"
+  - paper-conference
+publication: "NAACL 2024 Main Conference"
 url_pdf: https://arxiv.org/abs/2309.16039
 url_project: https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools
 
