@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student in CS
+role: MS at ETHz, Incoming CS PhD Student at Uchicago, Part-time Student Researcher at Together AI
 
 # Organizations/Affiliations to show in About widget
 organizations:

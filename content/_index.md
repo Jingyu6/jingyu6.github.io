@@ -82,6 +82,15 @@ sections:
         view: card
   
   - block: markdown
+    id: academic_service
+    content:
+      title: Academic Service
+      text: |2-
+        Reviewer for *How Far Are We From AGI* @ ICLR 2024
+
+        Reviewer for *Long-Context Foundation Models (LCFM)* @ ICML 2024
+
+  - block: markdown
     id: miscellaneous
     content:
       title: Miscellaneous
