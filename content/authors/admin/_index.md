@@ -21,8 +21,8 @@ role: CS PhD Student at Uchicago, Part-time Student Researcher at Together AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ETH Zurich
-    url: https://ethz.ch/en.html
+  - name: University of Chicago
+    url: https://cs.uchicago.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: "My research interests include foundation models and efficient AI systems."
