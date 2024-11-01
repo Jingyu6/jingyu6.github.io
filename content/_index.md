@@ -12,6 +12,17 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   
+  - block: markdown
+    id: updates
+    content:
+      title: Updates
+      text: |2-
+        [2024.10] Our survey paper got accepted by TMLR 2025!
+
+        [2024.9] I'm starting my PhD at Uchicago, working with professor Ce Zhang. 
+        
+        [2024.8] Our paper got accepted by WACV 2025!
+
   - block: experience
     id: experience
     content:

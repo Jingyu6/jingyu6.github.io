@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD Student in CS
       institution: University of Chicago
-      year: Starting in 2024
+      year: 2024 - Present
     - course: MS in Computer Science
       institution: ETH Zurich
       year: 2024
@@ -114,7 +114,7 @@ I am a first-year PhD student at [University of Chicago](https://cs.uchicago.edu
 
 With my previous works on *[CodeLlama](https://arxiv.org/abs/2308.12950)* and *[Llama 2 Long](https://arxiv.org/abs/2309.16039)*, I become very interested in AI systems, specially in developing efficient algorithms and systems for large-scale training and inference. I'm intrigued by how we could improve model alignment and understand the science behind these foundation models.
 
-{last_name}{first_name} AT student DOT ethz DOT ch
+{first_name}6 AT uchicago DOT edu
 
 Feel free to drop me an email for anything, especially for potential collaboration!!
 {style="text-align: justify;"}
