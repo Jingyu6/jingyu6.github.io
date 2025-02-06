@@ -17,6 +17,8 @@ sections:
     content:
       title: Updates
       text: |2-
+        [2025.2] New work released called Speculative Prefill, which increases LLM inference TTFT and maximal QPS! Feel free to check the paper and code. 
+
         [2024.10] Our survey paper got accepted by TMLR 2025!
 
         [2024.9] I'm starting my PhD at Uchicago, working with professor Ce Zhang. 
