@@ -99,6 +99,8 @@ sections:
     content:
       title: Academic Service
       text: |2-
+        Reviewer for ICML 2025
+
         Reviewer for *How Far Are We From AGI* @ ICLR 2024
 
         Reviewer for *Long-Context Foundation Models (LCFM)* @ ICML 2024
