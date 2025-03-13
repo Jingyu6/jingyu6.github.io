@@ -106,6 +106,12 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - icon: x
+    icon_pack: brands
+    link: https://x.com/Jingyu227
+  - icon: weixin
+    icon_pack: brands
+    link: uploads/weixin.jpg
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
