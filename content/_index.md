@@ -17,6 +17,8 @@ sections:
     content:
       title: Updates
       text: |2-
+        [2025.05] [Speculative Prefill](https://arxiv.org/abs/2502.02789) got accepted by ICML 2025! Feel free to try our code [here](https://github.com/Jingyu6/speculative_prefill). 
+
         [2025.03] I will join the Inference Optimization team at Nvidia as a research scientist intern in summer 2025. 
     
         [2025.02] New work released called Speculative Prefill, which increases LLM inference TTFT and maximal QPS! Feel free to check the paper and code. 
