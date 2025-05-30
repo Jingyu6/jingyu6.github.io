@@ -10,7 +10,7 @@ publication_types:
   - paper-conference
 publication_types:
   - arxiv
-publication: "Under Review"
+publication: "ICML 2025"
 url_pdf: https://arxiv.org/abs/2502.02789
 url_project: https://github.com/Jingyu6/speculative_prefill
 
