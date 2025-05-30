@@ -17,6 +17,8 @@ sections:
     content:
       title: Updates
       text: |2-
+        [2025.05] We introduce [HAMburger](https://github.com/Jingyu6/hamburger), a new model that redefines resource allocation for LLMs by generating multiple tokens per step with a single KV cache. 
+
         [2025.05] [Speculative Prefill](https://arxiv.org/abs/2502.02789) got accepted by ICML 2025! Feel free to try our code [here](https://github.com/Jingyu6/speculative_prefill). 
 
         [2025.03] I will join the Inference Optimization team at Nvidia as a research scientist intern in summer 2025. 
