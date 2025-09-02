@@ -44,6 +44,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Scientist Intern
+          company: Nvidia
+          company_url: https://www.nvidia.com/en-us
+          company_logo: org_nvidia
+          location: Santa Clara, CA
+          date_start: '2025-06-16'
+          date_end: '2025-12-26'
+          description: |2-
+            Research on Diffusion LLMs: 
+              
+              * Scaling different types of DLLMs
+              * Model distillation
+              * Developing adaptive caching mechanism
+              * Hybrid architecture
         - title: AI Resident
           company: Meta AI
           company_url: https://ai.meta.com
