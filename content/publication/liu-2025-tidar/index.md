@@ -10,6 +10,9 @@ authors:
   - Jan Kautz
   - Ce Zhang
   - Pavlo Molchanov
+author_notes:
+  - "Equal Contribution"
+  - "Equal Contribution, Project Lead"
 date: '2025-11-12'
 publishDate: '2025-11-12'
 publication_types:
