@@ -17,6 +17,8 @@ sections:
     content:
       title: Updates
       text: |2-
+        [2025.11] [TiDAR](https://arxiv.org/abs/2511.08923v1) at Nvidia is out! As a sequence-level hybrid model that conducts parallel diffusion drafting and autoregressive sampling in a single forward, TiDAR is the first architecture to close the quality gap with AR models while delivering 4.71x to 5.91x more tokens per second. Stay tuned for the SGLang inference code release. 
+
         [2025.05] We introduce [HAMburger](https://github.com/Jingyu6/hamburger), a new model that redefines resource allocation for LLMs by generating multiple tokens per step with a single KV cache. 
 
         [2025.05] [Speculative Prefill](https://arxiv.org/abs/2502.02789) got accepted by ICML 2025! Feel free to try our code [here](https://github.com/Jingyu6/speculative_prefill). 
