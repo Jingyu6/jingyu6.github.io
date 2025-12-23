@@ -1,7 +1,7 @@
 ---
 title: "TiDAR: Think in Diffusion, Talk in Autoregression"
 authors:
-  - Jingyu Liu
+  - admin
   - Xin Dong
   - Zhifan Ye
   - Rishabh Mehta

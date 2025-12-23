@@ -2,7 +2,7 @@
 title: "Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning"
 authors:
   - Rao Fu
-  - Jingyu Liu
+  - admin
   - Xilun Chen
   - Yixin Nie
   - Wenhan Xiong

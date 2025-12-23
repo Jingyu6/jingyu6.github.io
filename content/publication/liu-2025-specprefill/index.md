@@ -1,7 +1,7 @@
 ---
 title: "Speculative Prefill: Turbocharging TTFT with Lightweight and Training-Free Token Importance Estimation"
 authors:
-  - Jingyu Liu
+  - admin
   - Beidi Chen
   - Ce Zhang
 date: '2025-02-05'

@@ -1,7 +1,7 @@
 ---
 title: "HAMburger: Accelerating LLM Inference via Token Smashing"
 authors:
-  - Jingyu Liu
+  - admin
   - Ce Zhang
 date: '2025-05-26'
 publishDate: '2025-05-26'

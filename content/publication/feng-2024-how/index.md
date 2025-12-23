@@ -3,7 +3,7 @@ title: "How Far Are We From AGI?"
 authors:
   - Tao Feng
   - Chuanyang Jin
-  - Jingyu Liu
+  - admin
   - Kunlun Zhu
   - Haoqin Tu
   - Zirui Cheng
