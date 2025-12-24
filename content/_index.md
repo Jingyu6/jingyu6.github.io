@@ -121,6 +121,8 @@ sections:
     content:
       title: Academic Service
       text: |2-
+        Reviewer for ICLR 2026
+
         Reviewer for ICML 2025
 
         Reviewer for *How Far Are We From AGI* @ ICLR 2024
