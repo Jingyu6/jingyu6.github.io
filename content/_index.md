@@ -17,6 +17,8 @@ sections:
     content:
       title: Updates
       text: |2-
+        [2026.01] ASAP Seminar [Talk](https://www.youtube.com/watch?v=d69iQ7fkFE4) and Discrete Diffusion Reading Group [Talk](https://www.youtube.com/watch?v=Is7h-sDGnno) on TiDAR as well as demo [webiste](https://tidarlm.github.io) are out. 
+
         [2025.11] [TiDAR](https://arxiv.org/abs/2511.08923v1) at Nvidia is out! As a sequence-level hybrid model that conducts parallel diffusion drafting and autoregressive sampling in a single forward, TiDAR is the first architecture to close the quality gap with AR models while delivering 4.71x to 5.91x more tokens per second. Stay tuned for the SGLang inference code release. 
 
         [2025.05] We introduce [HAMburger](https://github.com/Jingyu6/hamburger), a new model that redefines resource allocation for LLMs by generating multiple tokens per step with a single KV cache. 
