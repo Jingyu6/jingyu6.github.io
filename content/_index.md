@@ -17,6 +17,8 @@ sections:
     content:
       title: Updates
       text: |2-
+        [2026.02] New paper [Scaling Beyond Masked Diffusion Language Models](https://arxiv.org/abs/2602.15014) out! Scaling laws on different families of diffusion LMs: perlexity != downstream performance. 
+
         [2026.01] ASAP Seminar [Talk](https://www.youtube.com/watch?v=d69iQ7fkFE4) and Discrete Diffusion Reading Group [Talk](https://www.youtube.com/watch?v=Is7h-sDGnno) on TiDAR as well as demo [webiste](https://tidarlm.github.io) are out. 
 
         [2025.11] [TiDAR](https://arxiv.org/abs/2511.08923v1) at Nvidia is out! As a sequence-level hybrid model that conducts parallel diffusion drafting and autoregressive sampling in a single forward, TiDAR is the first architecture to close the quality gap with AR models while delivering 4.71x to 5.91x more tokens per second. Stay tuned for the SGLang inference code release. 
@@ -26,7 +28,8 @@ sections:
         [2025.05] [Speculative Prefill](https://arxiv.org/abs/2502.02789) got accepted by ICML 2025! Feel free to try our code [here](https://github.com/Jingyu6/speculative_prefill). 
 
         [2025.03] I will join the Inference Optimization team at Nvidia as a research scientist intern in summer 2025. 
-    
+
+        {{</* spoiler text="Show More" */>}}
         [2025.02] New work released called Speculative Prefill, which increases LLM inference TTFT and maximal QPS! Feel free to check the paper and code. 
 
         [2024.10] Our survey paper got accepted by TMLR 2025!
@@ -34,6 +37,7 @@ sections:
         [2024.09] I'm starting my PhD at Uchicago, working with professor Ce Zhang. 
         
         [2024.08] Our paper got accepted by WACV 2025!
+        {{</* /spoiler */>}}
 
   - block: experience
     id: experience
