@@ -29,7 +29,7 @@ sections:
 
         [2025.03] I will join the Inference Optimization team at Nvidia as a research scientist intern in summer 2025. 
 
-        {{</* spoiler text="Show More" */>}}
+        {{< spoiler text="Show More" >}}
         [2025.02] New work released called Speculative Prefill, which increases LLM inference TTFT and maximal QPS! Feel free to check the paper and code. 
 
         [2024.10] Our survey paper got accepted by TMLR 2025!
@@ -37,7 +37,7 @@ sections:
         [2024.09] I'm starting my PhD at Uchicago, working with professor Ce Zhang. 
         
         [2024.08] Our paper got accepted by WACV 2025!
-        {{</* /spoiler */>}}
+        {{< /spoiler >}}
 
   - block: experience
     id: experience
