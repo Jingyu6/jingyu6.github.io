@@ -17,6 +17,8 @@ sections:
     content:
       title: Updates
       text: |2-
+        [2026.03] Checkout our new work - [PPD disaggregation](https://arxiv.org/abs/2603.13358), which adaptively routes prefill operation after the first-turn to prefill or prefill-capable decode nodes during LLM inference (simple but effective in satisfying various SLOs). 
+
         [2026.02] New paper [Scaling Beyond Masked Diffusion Language Models](https://arxiv.org/abs/2602.15014) out! Scaling laws on different families of diffusion LMs: perlexity != downstream performance. 
 
         [2026.01] ASAP Seminar [Talk](https://www.youtube.com/watch?v=d69iQ7fkFE4) and Discrete Diffusion Reading Group [Talk](https://www.youtube.com/watch?v=Is7h-sDGnno) on TiDAR as well as demo [webiste](https://tidarlm.github.io) are out. 
