@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CS PhD Student at Uchicago, Part-time Student Researcher at Together AI
+role: CS PhD Student at Uchicago
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -116,9 +116,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student at [University of Chicago](https://cs.uchicago.edu), fortunately advised by prof [Ce Zhang](https://zhangce.github.io). I finished my master study in CS at ETH Zurich. During the master's, I took a gap year at [Meta AI](https://ai.meta.com) working as an AI resident on LLMs and 3D computer vision. Before the master's, I spent a year working on building search engines at [ByteDance](https://www.bytedance.com/en) as a MLE. I graduated from NYU with honors in CS and was awarded with [Prize for Outstanding Performance in CS](https://cs.nyu.edu/dynamic/achievements/undergraduate). I also spent time at Together AI and Nvidia to explore training & inference efficiency and diffusion LLMs. 
+I am a PhD student at the [University of Chicago](https://cs.uchicago.edu), fortunately advised by prof [Ce Zhang](https://zhangce.github.io). I finished my master study in CS at ETH Zurich. Before the master's, I spent a year working on building search engines at [ByteDance](https://www.bytedance.com/en) as a MLE. I graduated from NYU with honors in CS and was awarded with [Prize for Outstanding Performance in CS](https://cs.nyu.edu/dynamic/achievements/undergraduate). 
 
-With my previous works on *[CodeLlama](https://arxiv.org/abs/2308.12950)* and *[Llama 2 Long](https://arxiv.org/abs/2309.16039)*, I become very interested in AI systems, specially in developing efficient algorithms and systems for large-scale training and inference. I'm intrigued by how we could improve model alignment and understand the science behind these foundation models.
+I've spent time at [Meta AI](https://ai.meta.com) GenAI as an AI resident, working on code, long context LLMs, and 3D computer vision. I also interned as research scientist at [Nvidia](https://www.nvidia.com/en-us/) working on diffusion language models and hybrid architecture. I'll join ByteDance Seed as a research scientist exploring LLM pre-training and long context modeling. 
 
 {first_name}6 AT uchicago DOT edu
 
