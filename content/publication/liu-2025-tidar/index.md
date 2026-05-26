@@ -16,8 +16,8 @@ author_notes:
 date: '2025-11-12'
 publishDate: '2025-11-12'
 publication_types:
-  - report
-publication: "Nvidia Research"
+  - paper-conference
+publication: "MLSys 2026 (Oral)"
 url_pdf: https://arxiv.org/abs/2511.08923v1
 links:
   - name: Website

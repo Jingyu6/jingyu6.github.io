@@ -10,8 +10,8 @@ authors:
 date: '2026-03-09'
 publishDate: '2026-03-09'
 publication_types:
-  - arxiv
-publication: "Preprint"
+  - paper-conference
+publication: "ICML 2026"
 url_pdf: https://arxiv.org/abs/2603.13358
 url_project: https://github.com/freelulul/vllm-ppd
 

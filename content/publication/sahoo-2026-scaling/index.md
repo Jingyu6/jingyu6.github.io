@@ -24,7 +24,7 @@ publication_types:
   - paper-conference
 publication_types:
   - arxiv
-publication: "Preprint"
+publication: "ICML 2026"
 url_pdf: https://arxiv.org/abs/2602.15014
 url_project: https://s-sahoo.com/scaling-dllms
 

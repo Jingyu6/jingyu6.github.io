@@ -17,6 +17,14 @@ sections:
     content:
       title: Updates
       text: |2-
+        [2026.06] I'll be joining ByteDance Seed as a research scientist intern this summer. 
+
+        [2026.05] New paper on tri-mode diffusion models got released! Check out the [tech report](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_Diffusion_Tech_Report.pdf?VersionId=1tm4XZATEzGV7cs51XAf.xmWupU20vYW) and [HF space](https://huggingface.co/collections/nvidia/nemotron-labs-diffusion). 
+
+        [2026.05] Our paper [TiDAR](https://tidarlm.github.io/) got accepted to MLsys as Oral presentation!
+
+        [2026.04] Three papers got accepted to ICML 2026! Checkout [PPD](https://arxiv.org/abs/2603.13358), [Efficient-DLM](https://arxiv.org/abs/2512.14067), and [Scaling Diffusion LLMs](https://arxiv.org/abs/2602.15014). 
+
         [2026.03] Checkout our new work - [PPD disaggregation](https://arxiv.org/abs/2603.13358), which adaptively routes prefill operation after the first-turn to prefill or prefill-capable decode nodes during LLM inference (simple but effective in satisfying various SLOs). 
 
         [2026.02] New paper [Scaling Beyond Masked Diffusion Language Models](https://arxiv.org/abs/2602.15014) out! Scaling laws on different families of diffusion LMs: perlexity != downstream performance. 
