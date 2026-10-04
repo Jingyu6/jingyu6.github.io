@@ -17,6 +17,10 @@ sections:
     content:
       title: Updates
       text: |2-
+        [2026.09] Our new paper is accepted to NeurIPS 2026, which shows that an embarrassingly simple RAG-based memory module can beat or perform similar to SOTA memory systems on BEAM 100K, EverMemBench, and LongMemEval-S. Stay tuned for the paper!
+
+        [2026.08] Our paper Nemotron-Labs-Diffusion is accepted in EMNLP 2026!
+
         [2026.06] I'll be joining ByteDance Seed as a research scientist intern this summer. 
 
         [2026.05] New paper on tri-mode diffusion models got released! Check out the [tech report](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_Diffusion_Tech_Report.pdf?VersionId=1tm4XZATEzGV7cs51XAf.xmWupU20vYW) and [HF space](https://huggingface.co/collections/nvidia/nemotron-labs-diffusion). 
@@ -32,6 +36,8 @@ sections:
         [2026.01] ASAP Seminar [Talk](https://www.youtube.com/watch?v=d69iQ7fkFE4) and Discrete Diffusion Reading Group [Talk](https://www.youtube.com/watch?v=Is7h-sDGnno) on TiDAR as well as demo [webiste](https://tidarlm.github.io) are out. 
 
         [2025.11] [TiDAR](https://arxiv.org/abs/2511.08923v1) at Nvidia is out! As a sequence-level hybrid model that conducts parallel diffusion drafting and autoregressive sampling in a single forward, TiDAR is the first architecture to close the quality gap with AR models while delivering 4.71x to 5.91x more tokens per second. Stay tuned for the SGLang inference code release. 
+        
+        {{< spoiler text="Show More" >}}
 
         [2025.05] We introduce [HAMburger](https://github.com/Jingyu6/hamburger), a new model that redefines resource allocation for LLMs by generating multiple tokens per step with a single KV cache. 
 
@@ -39,7 +45,6 @@ sections:
 
         [2025.03] I will join the Inference Optimization team at Nvidia as a research scientist intern in summer 2025. 
 
-        {{< spoiler text="Show More" >}}
         [2025.02] New work released called Speculative Prefill, which increases LLM inference TTFT and maximal QPS! Feel free to check the paper and code. 
 
         [2024.10] Our survey paper got accepted by TMLR 2025!
@@ -63,6 +68,20 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Scientist Intern
+          company: Seed @ ByteDance
+          company_url: https://seed.bytedance.com/en
+          company_logo: org_bytedance
+          location: San Jose, CA
+          date_start: '2026-06-08'
+          date_end: 'present'
+          description: |2-
+            LLM Long context Pretrain:
+
+              * Virtual width networks and hyper-connections
+              * KV cache compression
+              * Native TTS architecture
+
+        - title: Research Scientist Intern
           company: Nvidia
           company_url: https://www.nvidia.com/en-us
           company_logo: org_nvidia
@@ -76,6 +95,7 @@ sections:
               * Model distillation
               * Developing adaptive caching mechanism
               * Hybrid architecture
+
         - title: AI Resident
           company: Meta AI
           company_url: https://ai.meta.com
@@ -93,6 +113,7 @@ sections:
 
               * Semantic 3D indoor scene synthesis, reasoning, and planning
               * Text-guided 3D human generation
+
         - title: Research Assistant
           company: ETH Zurich
           company_url: https://las.inf.ethz.ch/krausea
@@ -101,6 +122,7 @@ sections:
           date_start: '2022-03-01'
           date_end: '2022-11-01'
           description: Student research assistant working on offline reinforcement learning algorithms that train with a mixture of trajectories sampled from multiple demonstrators. 
+
         - title: Machine Learning Engineer
           company: ByteDance
           company_url: https://www.bytedance.com/en
@@ -109,6 +131,7 @@ sections:
           date_start: '2020-08-01'
           date_end: '2021-08-01'
           description: Worked on the search engine in Douyin's E-commerce platform from the very early stage, including the search index, data pipeline, retrieval module, and ranking deep models. 
+          
         - title: Teaching Assistant
           company: Courant Institute, New York University
           company_url: https://cims.nyu.edu/dynamic
