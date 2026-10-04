@@ -73,7 +73,7 @@ sections:
           company_logo: org_bytedance
           location: San Jose, CA
           date_start: '2026-06-08'
-          date_end: 'present'
+          date_end: ''
           description: |2-
             LLM Long context Pretrain:
 
